@@ -1,1 +1,2 @@
 # STONE
+Hello, my friend
